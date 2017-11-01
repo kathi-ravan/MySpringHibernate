@@ -12,3 +12,5 @@ SQL code to execute h2:
 
 Test database.
 CREATE TABLE Person2(ID INT auto_increment PRIMARY KEY, NAME VARCHAR(255),  Country VARCHAR(255)); 
+
+ref: https://www.journaldev.com/3531/spring-mvc-hibernate-mysql-integration-crud-example-tutorial
